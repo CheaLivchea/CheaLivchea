@@ -6,9 +6,9 @@
 I am a passionate software developer and student from Cambodia. I enjoy building web applications, working with backend systems, and learning new technologies. Currently, I focus on full-stack development using React, Node.js, and cloud services like AWS. I am also learning Flutter to expand my skills in mobile app development.
 
 ### 🚀 Skills
-- **Languages:** JavaScript, Python, Java, C
+- **Languages:** JavaScript, Java
 - **Frontend:** React, 
-- **Backend:** Node.js, Express, Strapi  
+- **Backend:** Node.js, Express.js  
 - **Databases:** MySQL, Sequelize ORM  
 - **Tools & Platforms:** AWS (EC2, RDS, S3), Git, Postman , Figma
 
